@@ -9,17 +9,17 @@ function myFunction() {
     });
   });
 
-  var About = `<div> <h2> About </h2> </div> `;
+  var About = `<div> <h2> About Page </h2> </div> `;
 
   let Home = `<div>
-<h2> Home </h2>
+<h2> Home Page </h2>
 </div> `;
 
   let Contact = `<div>
-<h2> Contact </h2>
+<h2> Contact Page </h2>
 </div> `;
   let Products = `<div>
-<h2> Products </h2>
+<h2> Products Page </h2>
 </div> `;
 
   function getComponent(pathname) {
